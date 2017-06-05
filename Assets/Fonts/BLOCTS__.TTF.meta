@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 88042ed9d9f3beb4ea92216041067fbb
+timeCreated: 1496170671
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: BlockTitling Standard
+  fontNames:
+  - BlockTitling Standard
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
